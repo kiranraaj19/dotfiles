@@ -1,0 +1,25 @@
+# Get editor completions based on the config schema
+"$schema" = 'https://starship.rs/config-schema.json'
+
+# Inserts a blank line between shell prompts
+add_newline = true
+
+# Allow git to take a little longer than normal
+command_timeout = 1000
+
+# Disable the package module, hiding it from the prompt completely
+[package]
+disabled = true
+
+[gcloud]
+disabled = true
+
+[git_metrics]
+disabled = true
+
+[git_state]
+disabled = true
+
+[git_status]
+# Remove ahead_behind, and stashed status from 
+format = '([\[$conflicted$deleted$renamed$modified$staged$untracked\]]($style) )'
