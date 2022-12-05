@@ -7,7 +7,7 @@ Inspired by other linux dotfiles.
 ## Packages used:
 - i3 (Window Manager)
 - Polybar (Status bar)
-- Rofi (Menu launcher)
+- [Rofi](https://github.com/adi1090x/rofi) (Menu launcher)
 - Picom (Compositor)
 - Alacritty (GPU Based Terminal Emulator)
 - Neofetch (System Info Display)
