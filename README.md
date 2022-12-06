@@ -1,6 +1,6 @@
 # Preview
 
-![image](https://user-images.githubusercontent.com/39441413/203274814-12a5a07d-da59-468e-a30f-d9cf6c56ba07.png)
+![image](https://user-images.githubusercontent.com/39441413/205927424-65b073cd-17a7-4124-90e3-1c84b56e45b5.png)
 
 Inspired by other linux dotfiles.
 
