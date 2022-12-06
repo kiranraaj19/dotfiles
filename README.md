@@ -11,5 +11,4 @@ Inspired by other linux dotfiles.
 - Picom (Compositor)
 - Alacritty (GPU Based Terminal Emulator)
 - Neofetch (System Info Display)
-- Spicetify + Spotify (Spotify with Modded Theme)
 - Starship (Rust based prompt for zsh)
